@@ -1,0 +1,26 @@
+{
+  "leadOpportunityProcedureRetrieveActionResponse" : "leadOpportunityProcedureRetrieveActionResponse",
+  "leadOpportunityProcedureInstanceAnalysis" : {
+    "leadOpportunityProcedureInstanceAnalysisReport" : {},
+    "leadOpportunityProcedureInstanceAnalysisReportType" : "leadOpportunityProcedureInstanceAnalysisReportType",
+    "leadOpportunityProcedureInstanceAnalysisData" : "leadOpportunityProcedureInstanceAnalysisData"
+  },
+  "leadOpportunityProcedureInstanceReportRecord" : {
+    "leadOpportunityProcedureInstanceReport" : {},
+    "leadOpportunityProcedureInstanceReportType" : "leadOpportunityProcedureInstanceReportType",
+    "leadOpportunityProcedureInstanceReportData" : "leadOpportunityProcedureInstanceReportData"
+  },
+  "leadOpportunityProcedureRetrieveActionTaskReference" : "LOPRATR717056",
+  "leadOpportunityProcedureRetrieveActionTaskRecord" : {},
+  "leadOpportunityProcedureInstanceRecord" : {
+    "productInstanceReference" : "713444",
+    "employeeBusinessUnitReference" : "759400",
+    "customerCampaignReference" : "728736",
+    "leadOpportunityDescription" : "leadOpportunityDescription",
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerReference" : "790658",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignVersionNumber" : "customerCampaignVersionNumber",
+    "productServiceType" : "productServiceType"
+  }
+}

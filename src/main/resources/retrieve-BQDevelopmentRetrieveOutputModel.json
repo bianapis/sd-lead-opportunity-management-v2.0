@@ -1,0 +1,39 @@
+{
+  "developmentInstanceReport" : {
+    "developmentInstanceReportType" : "developmentInstanceReportType",
+    "developmentInstanceReport" : {},
+    "developmentInstanceReportRecord" : {},
+    "developmentInstanceReportParameters" : "developmentInstanceReportParameters"
+  },
+  "developmentRetrieveActionTaskReference" : "DRATR705360",
+  "developmentRetrieveActionResponse" : "developmentRetrieveActionResponse",
+  "developmentInstanceAnalysis" : {
+    "developmentInstanceAnalysisReportType" : "developmentInstanceAnalysisReportType",
+    "developmentInstanceAnalysisRecord" : {},
+    "developmentInstanceAnalysisReport" : {},
+    "developmentInstanceAnalysisParameters" : "developmentInstanceAnalysisParameters"
+  },
+  "developmentRetrieveActionTaskRecord" : {},
+  "leadOpportunityProcedureInstanceRecord" : {
+    "productInstanceReference" : "763561",
+    "employeeBusinessUnitReference" : "720229",
+    "customerCampaignReference" : "758511",
+    "leadOpportunityDescription" : "leadOpportunityDescription",
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerReference" : "754554",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignVersionNumber" : "customerCampaignVersionNumber",
+    "productServiceType" : "productServiceType"
+  },
+  "developmentInstanceRecord" : {
+    "leadDevelopmentTaskResult" : "leadDevelopmentTaskResult",
+    "employeeBusinessUnitReference" : "786933",
+    "customerContactRecordReference" : "765783",
+    "correspondenceInstanceReference" : "717663",
+    "dateTimeLocation" : "dateTimeLocation",
+    "leadDevelopmentWorkProducts" : "leadDevelopmentWorkProducts",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "781068"
+  }
+}

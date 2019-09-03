@@ -1,0 +1,16 @@
+{
+  "leadOpportunityProcedureUpdateActionTaskRecord" : {},
+  "leadOpportunityProcedureUpdateActionTaskReference" : "LOPUATR703785",
+  "updateResponseRecord" : {},
+  "leadOpportunityProcedureInstanceRecord" : {
+    "productInstanceReference" : "768028",
+    "employeeBusinessUnitReference" : "736794",
+    "customerCampaignReference" : "742588",
+    "leadOpportunityDescription" : "leadOpportunityDescription",
+    "dateTimeLocation" : "dateTimeLocation",
+    "customerReference" : "757407",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignVersionNumber" : "customerCampaignVersionNumber",
+    "productServiceType" : "productServiceType"
+  }
+}

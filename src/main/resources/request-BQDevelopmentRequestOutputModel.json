@@ -1,0 +1,16 @@
+{
+  "developmentRequestRecordReference" : "DRRR775088",
+  "developmentRequestActionTaskReference" : "DRATR716919",
+  "developmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "developmentInstanceRecord" : {
+    "leadDevelopmentTaskResult" : "leadDevelopmentTaskResult",
+    "customerContactRecordReference" : "760152",
+    "correspondenceInstanceReference" : "785716",
+    "dateTimeLocation" : "dateTimeLocation",
+    "leadDevelopmentWorkProducts" : "leadDevelopmentWorkProducts",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "791965"
+  }
+}

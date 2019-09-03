@@ -1,0 +1,9 @@
+{
+  "leadOpportunityProcedureInitiateActionRecord" : {},
+  "leadOpportunityProcedureInstanceStatus" : "leadOpportunityProcedureInstanceStatus",
+  "leadOpportunityProcedureInitiateActionReference" : "LOPIAR734183",
+  "leadOpportunityProcedureInstanceReference" : "LOPIR767067",
+  "leadOpportunityProcedureInstanceRecord" : {
+    "dateTimeLocation" : "dateTimeLocation"
+  }
+}
